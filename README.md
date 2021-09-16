@@ -18,6 +18,14 @@ O podcaster é um software de reprodução de podcasts desenvolvido na semana da
 - Axios
 - Json server
 
+## Autenticação
+
+```bash
+Email: admin@admin.com
+Senha: 1234
+```
+
+
 ## Comandos
 
 Instalação:
