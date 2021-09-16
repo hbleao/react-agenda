@@ -1,0 +1,114 @@
+{
+  "calendars": [
+    {
+      "id": 1,
+      "name": "Pessoal",
+      "color": "#8E24AA"
+    },
+    {
+      "id": 2,
+      "name": "Trabalho",
+      "color": "#7CB342"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "calendarId": 1,
+      "date": "2021-09-08",
+      "desc": "Entrevista",
+      "time": "14:00"
+    },
+    {
+      "id": 3,
+      "calendarId": 1,
+      "date": "2021-09-08",
+      "desc": "Daily",
+      "time": "08:45"
+    },
+    {
+      "id": 7996,
+      "calendarId": 1,
+      "date": "2021-09-10",
+      "desc": "Ver filmes com sound bar",
+      "time": "20:38"
+    },
+    {
+      "id": 1399,
+      "calendarId": 2,
+      "date": "2021-09-09",
+      "desc": "Trabalhar muito",
+      "time": "20:39"
+    },
+    {
+      "id": 2452,
+      "calendarId": 1,
+      "date": "2021-09-07",
+      "desc": "teste 5",
+      "time": "20:52"
+    },
+    {
+      "id": 2385,
+      "calendarId": 1,
+      "date": "2021-09-07",
+      "desc": "hahaha",
+      "time": "20:53"
+    },
+    {
+      "id": 6901,
+      "calendarId": 1,
+      "date": "2021-09-09",
+      "desc": "kkk",
+      "time": "20:53"
+    },
+    {
+      "id": 8172,
+      "calendarId": 1,
+      "date": "2021-08-31",
+      "desc": "teste 3",
+      "time": "20:55"
+    },
+    {
+      "id": 8725,
+      "calendarId": 1,
+      "date": "2021-09-02",
+      "desc": "kkk 5555",
+      "time": "20:56"
+    },
+    {
+      "id": 259,
+      "calendarId": 2,
+      "date": "2021-09-01",
+      "desc": "bootcamp igti",
+      "time": "19:08"
+    },
+    {
+      "id": 9652,
+      "calendarId": 1,
+      "date": "2021-09-09",
+      "desc": "",
+      "time": "23:37"
+    },
+    {
+      "id": 1490,
+      "calendarId": 1,
+      "date": "2021-09-29",
+      "desc": "Dentista",
+      "time": "00:28"
+    },
+    {
+      "id": 571,
+      "calendarId": 2,
+      "date": "2021-10-07",
+      "desc": "Daily",
+      "time": "22:09"
+    },
+    {
+      "id": 1604,
+      "calendarId": 1,
+      "date": "2021-09-30",
+      "desc": "Futebol",
+      "time": "09:56"
+    }
+  ]
+}
