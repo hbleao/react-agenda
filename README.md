@@ -1,7 +1,5 @@
-# Podcaster - NLW05 (Frontend)
-
-## Projeto
-O podcaster é um software de reprodução de podcasts desenvolvido na semana da next level week (NLW) promovido pela Rocketseat.
+# React Agenda
+O projeto react agenda é uma aplicação que foi realizado no bootcamp da IGTI.
 
 ### Tela Inicial da aplicação
 ![!home](./public/assets/login.png)
